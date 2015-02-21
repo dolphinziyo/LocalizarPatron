@@ -1,9 +1,9 @@
 # coding=ISO-8859-1
 '''
 Creado el 10/06/2011
-@autor: dolphin
+@autor: dolphinziyo
     http://twitter.com/dolphinziyo
-Web: http://tecnogame.co.cc
+	Web: http://tecnogame.org
 '''
 # Este programa sirve para buscar ciertos patrones en archivos de texto plano,
 # Su forma de uso es muy sencilla, requiere de la introducción del patrón a buscar,
