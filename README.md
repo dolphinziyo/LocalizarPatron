@@ -16,3 +16,6 @@ Por ejemplo:
 
 	·Localizar la posición exacta, línea y fichero del patrón "hola" en todos los ubicados en el directorio actual:
 		python2.7 localizarPatron.py hola
+		
+Más información en:
+http://www.tecnogame.org/2012/01/script-en-python-para-localizar-patrones-en-ficheros-de-texto-plano/
